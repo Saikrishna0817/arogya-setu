@@ -1,0 +1,42 @@
+# Core
+streamlit
+python-dotenv
+pydantic
+python-dotenv
+
+# OCR & Image Processing
+pytesseract
+Pillow
+opencv-python
+numpy
+scikit-image
+
+# PDF Processing
+pdfplumber
+PyMuPDF
+
+# NLP & LLM
+transformers
+torch
+sentencepiece
+sacremoses
+openai
+google-generativeai
+
+# Translation & TTS
+googletrans
+gTTS
+langdetect
+
+# Data & Parsing
+pandas
+rapidfuzz
+python-dateutil
+# Database
+SQLAlchemy
+sqlite-fts4
+
+# Utilities
+requests
+tqdm
+python-multipart
